@@ -16,7 +16,7 @@ export const API_SITES = [
   },
   {
     key: "ffzy5",
-    api: "http://ffzy5.tv",
+    api: "https://caiji.semaozy.net",
     name: "非凡影视"
   },
 ];
