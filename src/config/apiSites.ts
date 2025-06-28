@@ -21,7 +21,7 @@ export const API_SITES = [
   },
   {
     key: "金马",
-    api: "https://api.jmzy.com/",
+    api: "https://api.jmzy.com",
     name: "金马资源"
   },
 ];
