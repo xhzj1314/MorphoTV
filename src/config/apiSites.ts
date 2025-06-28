@@ -19,4 +19,9 @@ export const API_SITES = [
     api: "https://caiji.semaozy.net",
     name: "色猫资源"
   },
+  {
+    key: "金马",
+    api: "https://api.jmzy.com/",
+    name: "金马资源"
+  },
 ];
