@@ -15,8 +15,8 @@ export const API_SITES = [
     name: "极速资源"
   },
   {
-    key: "ffzy5",
+    key: "semao",
     api: "https://caiji.semaozy.net",
-    name: "非凡影视"
+    name: "色猫资源"
   },
 ];
